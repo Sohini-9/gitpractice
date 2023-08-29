@@ -1,3 +1,3 @@
-### Git And Giuthub Tutorials
+### Git And Github Tutorials
 
 ## Sohini Chaudhuri
